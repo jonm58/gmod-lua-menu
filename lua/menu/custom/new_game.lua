@@ -16,34 +16,34 @@ Figure out fonts? The current ones look neat but blurry
 ]]
 
 surface.CreateFont( "StartNewGameFont", {
-	font = "Roboto Lt",
+	font = "MiSans", "MiSans VF", "MiSans TC VF", "MiSans Thai VF", "MiSans Tibetan VF", "MiSans L3", "MiSans Lao VF", "MiSans Myanmar VF",
 	size = 18,
 } )
 
 surface.CreateFont( "SingleMultiPlayer", {
-	font = "Roboto Lt",
+	font = "MiSans", "MiSans VF", "MiSans TC VF", "MiSans Thai VF", "MiSans Tibetan VF", "MiSans L3", "MiSans Lao VF", "MiSans Myanmar VF",
 	size = 17,
 } )
 
 surface.CreateFont( "DermaRobotoDefault", {
-	font = "Roboto Lt",
+	font = "MiSans", "MiSans VF", "MiSans TC VF", "MiSans Thai VF", "MiSans Tibetan VF", "MiSans L3", "MiSans Lao VF", "MiSans Myanmar VF",
 	size = 13
 } )
 
 surface.CreateFont( "StartNewGame", {
-	font = "Roboto",
+	font = "MiSans", "MiSans VF", "MiSans TC VF", "MiSans Thai VF", "MiSans Tibetan VF", "MiSans L3", "MiSans Lao VF", "MiSans Myanmar VF",
 	size = 30,
 } )
 
 surface.CreateFont( "rb655_MapList", {
 	size = 12,
-	font = "Tahoma"
+	font = "MiSans", "MiSans VF", "MiSans TC VF", "MiSans Thai VF", "MiSans Tibetan VF", "MiSans L3", "MiSans Lao VF", "MiSans Myanmar VF",
 } )
 
 surface.CreateFont( "rb655_MapSubCat", {
 	size = 30,
 	--weight = 900,
-	font = "Roboto Lt"
+	font = "MiSans VF", "MiSans TC VF", "MiSans Thai VF", "MiSans Tibetan VF", "MiSans L3", "MiSans Lao VF", "MiSans Myanmar VF",
 } )
 
 local noise = Material( "gui/noise.png", "nocull noclamp smooth" )
