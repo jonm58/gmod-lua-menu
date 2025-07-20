@@ -1,12 +1,12 @@
 
 surface.CreateFont( "rb655_AddonName", {
 	size = ScreenScale( 12 ),
-	font = "Tahoma"
+	font = "MiSans VF"
 } )
 
 surface.CreateFont( "rb655_AddonDesc", {
 	size = ScreenScale( 8 ),
-	font = "Tahoma"
+	font = "MiSans VF"
 } )
 
 local PANEL = {}
