@@ -10,7 +10,7 @@ local PANEL = {}
 language.Add( "achievements", "Achievements" )
 
 surface.CreateFont( "MenuButton", {
-	font	= "MiSans", "MiSans VF", "MiSans TC VF", "MiSans Thai VF", "MiSans Tibetan VF", "MiSans L3", "MiSans Lao VF", "MiSans Myanmar VF", "MiSans Latin VF",  "MiSans Khmer VF", "MiSans Gurmukhi VF", "MiSans Gujarati VF"
+	font	= "MiSans VF"
 	size	= 24,
 	weight	= 600
 } )
